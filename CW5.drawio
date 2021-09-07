@@ -1,1 +1,151 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T15:11:12.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" version="15.1.1" etag="-dqzSimcbkj7LNgOxKlN" type="github"><diagram id="HEoeJW9OBDRBlivfH3os">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-07T16:06:24.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="VXhH0o_P_3Whh22zKqsN" version="15.1.1" type="github">
+  <diagram id="HEoeJW9OBDRBlivfH3os" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q8iKQIKu2uEe2SlG8fVP-5" target="q8iKQIKu2uEe2SlG8fVP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-6" value="&lt;br&gt;нужная температура&amp;nbsp; +24 C&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;°&lt;/span&gt;&lt;br&gt;&amp;nbsp;в комнате" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="27.5" y="200" width="135" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="q8iKQIKu2uEe2SlG8fVP-5" target="q8iKQIKu2uEe2SlG8fVP-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="360" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="103" y="310" />
+              <mxPoint x="250" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="q8iKQIKu2uEe2SlG8fVP-5" target="q8iKQIKu2uEe2SlG8fVP-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="420" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="95" y="380" />
+              <mxPoint x="95" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="q8iKQIKu2uEe2SlG8fVP-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="380" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="110" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q8iKQIKu2uEe2SlG8fVP-10" target="q8iKQIKu2uEe2SlG8fVP-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-10" value="&lt;br&gt;В комнате градусник показывает меньше требуемого градуса" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="260" y="180" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q8iKQIKu2uEe2SlG8fVP-14" target="q8iKQIKu2uEe2SlG8fVP-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-14" value="&lt;br&gt;В комнате градусник показывает больше требуемого градуса" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="220" y="640" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q8iKQIKu2uEe2SlG8fVP-16" target="q8iKQIKu2uEe2SlG8fVP-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-16" value="&lt;br&gt;В комнате градусник показывает + 24 C&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;°&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q8iKQIKu2uEe2SlG8fVP-18" target="q8iKQIKu2uEe2SlG8fVP-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-18" value="&lt;br&gt;&lt;br&gt;не выключаем кондиционер" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="450" y="180" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q8iKQIKu2uEe2SlG8fVP-20" target="q8iKQIKu2uEe2SlG8fVP-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-20" value="&lt;br&gt;повышаем градус кондиционера до требуемого (+24 C&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;°&lt;/span&gt;)" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="640" y="180" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q8iKQIKu2uEe2SlG8fVP-22" target="q8iKQIKu2uEe2SlG8fVP-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="897" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q8iKQIKu2uEe2SlG8fVP-22" target="q8iKQIKu2uEe2SlG8fVP-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-22" value="&lt;br&gt;&lt;br&gt;Ожидаем" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="827" y="180" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-24" value="&lt;br&gt;Температура комнаты повысилась до +24 C&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;°&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="90" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q8iKQIKu2uEe2SlG8fVP-26" target="q8iKQIKu2uEe2SlG8fVP-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-26" value="&lt;br&gt;&lt;br&gt;Кондиционер засорился и сломался" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="280" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-28" value="&lt;br&gt;&lt;br&gt;Вызываем мастера для ремонта" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="280" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-30" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="q8iKQIKu2uEe2SlG8fVP-28" target="q8iKQIKu2uEe2SlG8fVP-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="430" as="sourcePoint" />
+            <mxPoint x="690" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1300" y="400" />
+              <mxPoint x="710" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-31" value="&lt;br&gt;&lt;br&gt;&amp;nbsp;выключаем кондиционер" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="460" y="400" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q8iKQIKu2uEe2SlG8fVP-33" target="q8iKQIKu2uEe2SlG8fVP-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q8iKQIKu2uEe2SlG8fVP-33" target="q8iKQIKu2uEe2SlG8fVP-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-33" value="&lt;br&gt;&lt;br&gt;Проверить включён ли кондиционер" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="460" y="640" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q8iKQIKu2uEe2SlG8fVP-35" target="q8iKQIKu2uEe2SlG8fVP-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-35" value="&lt;br&gt;&lt;br&gt;Если включен, то понижаем градус до требуемого &lt;br&gt;+24 C&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;°&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="680" y="535" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q8iKQIKu2uEe2SlG8fVP-37" target="q8iKQIKu2uEe2SlG8fVP-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-37" value="&lt;br&gt;&lt;br&gt;Если выкл, то включаем и устанавливаем требуемый градус" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="700" y="640" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q8iKQIKu2uEe2SlG8fVP-39" target="q8iKQIKu2uEe2SlG8fVP-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-39" value="&lt;br&gt;&lt;br&gt;Ожидаем" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="940" y="610" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="q8iKQIKu2uEe2SlG8fVP-42" value="&lt;br&gt;Температура комнаты +24 C&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;°&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="610" width="190" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
